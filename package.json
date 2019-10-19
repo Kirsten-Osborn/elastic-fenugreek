@@ -1,0 +1,26 @@
+{
+  "name": "twilio-quest-voice-example",
+  "version": "1.0.0",
+  "description": "MLH twilio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CHANGE_ME"
+  },
+  "author": "Eilidh Southren",
+  "license": "ISC",
+  "bugs": {
+    "url": "CHANGE_ME"
+  },
+  "homepage": "CHANGE_ME",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.16.4",
+    "twilio": "^4.6.0",
+    "body-parser": "^1.18.3"
+  }
+}
